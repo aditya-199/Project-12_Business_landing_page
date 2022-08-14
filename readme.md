@@ -3,6 +3,7 @@
 ## _Name: Aditya Bankar_
 
 ![](/images/Screenshot12.png)
+![](/images/Screenshot12mobile.png)
 
 ## About the Page
 
@@ -10,6 +11,13 @@ It is it one of the most Amazing webpage i have developed. Learnt a lot about Ht
 
 - Flexbox
 - Grid
+
+It is a responsive single webpage
+
+Media Breakpoint
+- min-width: 800px
+- max-width: 799px
+
 
 ## Time Taken
 
